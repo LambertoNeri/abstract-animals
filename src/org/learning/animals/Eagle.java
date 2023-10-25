@@ -4,6 +4,9 @@ public class Eagle extends Animal implements CanFly{
     public Eagle(String name) {
         super(name);
     }
+    public Eagle(){
+
+    }
 
     @Override
     public void animalNoise() {

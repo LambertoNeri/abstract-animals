@@ -4,6 +4,7 @@ public class Dolphin extends Animal implements CanSwim{
     public Dolphin(String name) {
         super(name);
     }
+    public Dolphin(){}
 
     @Override
     public void animalNoise() {

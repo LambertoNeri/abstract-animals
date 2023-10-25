@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d3d214f5-006f-4a8e-8136-6cc31a7ba2cd" name="Changes" comment="second push adding classes and interfaces + some of the main program">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="d3d214f5-006f-4a8e-8136-6cc31a7ba2cd" name="Changes" comment="made 2 methods and made aquila2 fly calling the method (hoping it is correct)">
       <change beforePath="$PROJECT_DIR$/src/org/learning/animals/Dolphin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/learning/animals/Dolphin.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/org/learning/animals/Eagle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/learning/animals/Eagle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/org/learning/animals/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/learning/animals/Main.java" afterDir="false" />
@@ -84,12 +83,22 @@
       <option name="project" value="LOCAL" />
       <updated>1698244837810</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="made 2 methods and made aquila2 fly calling the method (hoping it is correct)">
+      <option name="closed" value="true" />
+      <created>1698248039175</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1698248039175</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="second push adding classes and interfaces + some of the main program" />
-    <option name="LAST_COMMIT_MESSAGE" value="second push adding classes and interfaces + some of the main program" />
+    <MESSAGE value="made 2 methods and made aquila2 fly calling the method" />
+    <MESSAGE value="made 2 methods and made aquila2 fly calling the method (hoping it is correct)" />
+    <option name="LAST_COMMIT_MESSAGE" value="made 2 methods and made aquila2 fly calling the method (hoping it is correct)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -102,15 +111,6 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/org/learning/animals/Main.java</url>
-          <line>31</line>
-          <properties class="org.learning.animals.Main" method="flyer">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

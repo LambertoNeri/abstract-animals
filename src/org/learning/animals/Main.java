@@ -31,10 +31,20 @@ public class Main {
         cicoloIlDelfino.swim();
 
 
+
+
         Eagle aquila2 = new Eagle("aquila2");
+        Sparrow ottoPas = new Sparrow();
+        Dolphin nino = new Dolphin();
+
+
+
+        flyer(ottoPas);
 
 
         flyer(aquila2);
+
+        swimmer(nino);
     }
 
     public static void flyer(CanFly flyer){

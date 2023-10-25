@@ -9,6 +9,7 @@ public class Sparrow extends Animal implements CanFly{
     public Sparrow(String name) {
         super(name);
     }
+    public Sparrow(){}
 
     @Override
     public void animalNoise() {
