@@ -23,6 +23,6 @@ public class Sparrow extends Animal implements CanFly{
 
     @Override
     public void fly() {
-        System.out.println("I'm a sparrow and I can fly");
+        System.out.println("I'm a sparrow and I am flying");
     }
 }

@@ -4,21 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d3d214f5-006f-4a8e-8136-6cc31a7ba2cd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstract-animals.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/learning/animals/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/learning/animals/CanFly.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/learning/animals/CanSwim.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/learning/animals/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/learning/animals/Dolphin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/learning/animals/Eagle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/learning/animals/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/learning/animals/Sparrow.java" afterDir="false" />
+    <list default="true" id="d3d214f5-006f-4a8e-8136-6cc31a7ba2cd" name="Changes" comment="second push adding classes and interfaces + some of the main program">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/learning/animals/Dolphin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/learning/animals/Dolphin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/learning/animals/Eagle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/learning/animals/Eagle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/learning/animals/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/learning/animals/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/learning/animals/Sparrow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/learning/animals/Sparrow.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +42,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "onboarding.tips.debug.path": "C:/classe 7 corso java/abstract-animals/src/Main.java"
   }
@@ -84,6 +76,43 @@
       <option name="presentableId" value="Default" />
       <updated>1698237867891</updated>
     </task>
+    <task id="LOCAL-00001" summary="second push adding classes and interfaces + some of the main program">
+      <option name="closed" value="true" />
+      <created>1698244837810</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1698244837810</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="second push adding classes and interfaces + some of the main program" />
+    <option name="LAST_COMMIT_MESSAGE" value="second push adding classes and interfaces + some of the main program" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/org/learning/animals/Main.java</url>
+          <line>6</line>
+          <properties class="org.learning.animals.Main" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/org/learning/animals/Main.java</url>
+          <line>31</line>
+          <properties class="org.learning.animals.Main" method="flyer">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
