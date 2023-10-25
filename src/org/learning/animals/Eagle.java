@@ -1,17 +1,22 @@
 package org.learning.animals;
 
-public class Aquila extends Animal{
-    public Aquila(String name) {
+public class Eagle extends Animal implements CanFly{
+    public Eagle(String name) {
         super(name);
     }
 
     @Override
     public void animalNoise() {
-
+        System.out.println("Skree! Skree!");
     }
 
     @Override
     public void food() {
+        System.out.println("Diet: Meat");
+    }
 
+    @Override
+    public void fly() {
+        System.out.println("I am an eagle and I can fly");
     }
 }
